@@ -1,0 +1,267 @@
+
+JAVA - 2 KLASA OK. 30 GODZIN LEKCYJNYCH
+=======================================
+Lekcje w formie wykładów połaczonych z ćwiczeniami będą uzupełnione materiałem tekstowym. Będzie on pogłębieniem
+zagadnień poruszanych podczas lekcji. Znajdą się tu ważne informacje teoretyczne oraz kody - czy robić to wszystko na GitHubie???
+-----------------------------------------------------------------------
+Słownik terminów niezbędnych dla zrozumienia programowania obiektowego i Javy - tworzyć sukcesywnie i udostępniać uczniom,
+może jakieś plakaty w pracowni (jeśli taka będzie)
+--------------------------------------------------------------------------
+
+1. LEKCJA - charakterystyka języka Java, pierwszy program.
+
+-czym jest Java: historia, charakterystyka
+   • wyjaśnić znaczenie terminów oprogramowanie, program, kod źródłowy, kod programu;
+   • odróżnić oprogramowanie aplikacji od oprogramowania systemowego;
+-jak działają programy napisane w Javie, 
+-jak napisać swój pierwszy program, 
+-jak kompilować i uruchamiać programy w języku Java - wiersz poleceń !!!
+   • łączyć wiadomości w poleceniach wyjściowych za pomocą operatora konkatenacji (+);
+   • dodawać komentarze do programów.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+--------------------------------------------------
+Powinno coś być o środowisku programistycznym - co to jest, jak instalować itp.
+--------------------------------------------------
+
+2. LEKCJA - typy danych i zmienne
+
+-Jakie są podstawowe typy danych w języku Java.
+-Jakie wartości mogą reprezentować poszczególne typy.
+-Dlaczego typ String różni się od typów prostych.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+-----------------------------------------------------
+
+3. LEKCJA - operacje na zmiennych
+
+-Czym są operatory matematyczne i logiczne w Javie i jak ich używać,
+-czym jest konwersja typu i jak działa,
+-czym jest konkatenacja napisów - jeśli nie zdążymy na 1. lekcji lub ew. rozwinięcie
+
+-ćwiczenia (kurs+ew. jakieś inne)
+--------------------------------------------------
+
+4. LEKCJA - klasy i obiekty cz.1
+
+-Czym jest klasa.
+-Co to jest obiekt.
+-Co oznacza programowanie obiektowe.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+----------------------------------------------------
+
+5. LEKCJA - klasy i obiekty cz.3
+
+-Jak zdefiniować własny typ danych.
+-Czym różni się referencja od obiektu.
+-Co oznacza null i NullPointerException.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+-----------------------------------------------------
+
+6. LEKCJA - agregacja i kompozycja
+
+-Czym jest agregacja i kompozycja,
+-jak zmniejszyć ilość powtarzalnego kodu w klasach.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+-----------------------------------------------------
+
+7. LEKCJA - metody
+
+-Czym są metody i jak je definiować,
+-co oznacza słowo void i return.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+-----------------------------------------------------
+
+8. LEKCJA - metody c.d.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+----------------------------------------------------
+
+9. LEKCJA - konstruktory metod
+
+-Czym jest konstruktor,
+-czym jest konstruktor domyślny,
+-jak definiować własne konstruktory.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+----------------------------------------------------
+
+10.LEKCJA - przeciażanie metod i konstruktorów, słowo kluczowe "this"
+
+Do czego służy słowo kluczowe this,
+jakie jest jego znaczenie w konstruktorach i przy polach klasy,
+co oznacza, że metoda lub konstruktor jest przeciążona (eng. overloading).
+
+
+-ćwiczenia (kurs+ew. jakieś inne)
+---------------------------------------------------
+
+11.LEKCJA - pakiety i specyfikatory dostępu
+
+-Czym jest pakiet.
+-Co oznacza specyfikator/modyfikator dostępu.
+-Jakim elementom możemy przypisać ograniczenia dostępu.
+-Co oznaczają słowa public, protected, private.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+--------------------------------------------------
+
+12.LEKCJA - Java API, biblioteki Javy, Java Beans (gettery i settery)
+
+-Czym jest Java API i biblioteki Javy
+-jak z nich korzystać
+-Czym są JavaBeans
+
+-ćwiczenia (kurs+ew. jakieś inne)
+------------------------------------------------------ 
+
+13.LEKCJA - instrukcje sterujące (warunkowe)
+
+-Czym są struktury sterujące,
+-w jaki sposób wykorzystywać warunek if,
+-jakie możliwości daje konstrukcja switch case.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+--------------------------------------------------
+
+14.LEKCJA - hermetyzacja (enkapsulacja)
+
+-Czym jest enkapsulacja,
+-w jaki sposób tworzyć kod podatny na późniejsze zmiany.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+--------------------------------------------------
+
+15.LEKCJA - tablice
+
+-Czym są tablice,
+-jak deklarować i tworzyć tablice w Javie,
+-jakie właściwości posiadają tablice.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+--------------------------------------------------
+
+16.LEKCJA - tablice wielowymiarowe
+
+-Czym są i do czego mogą się przydać tablice wielowymiarowe,
+-jak je tworzyć.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+
+LUB
+
+16.LEKCJA - operacje na trablicach
+
+-Jakie problemy możesz napotkać pracując z tablicami,
+-jak wykorzystać klasę Arrays do podstawowych operacji na tablicach.
+-------------------------------------------------
+
+17.LEKCJA - wprowadzanie danych (z klawiatury)
+
+-W jaki najprostszy sposób odbierać dane od użytkownika,
+-jak wczytywać liczby oraz napisy z klawiatury.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+-------------------------------------------------
+
+
+18.LEKCJA - pętla "for"
+
+-Czym są pętle,
+-kiedy wykorzystywać pętlę for,
+-jak tworzyć pętlę for w praktycznym przykładzie.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+---------------------------------------------------
+
+19.LEKCJA- petla "while"
+
+-Jak wygląda pętla while oraz do while,
+-czym pętle te różnią się od pętli for,
+-jak wybrać odpowiedni typ pętli do konkretnego przypadku.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+---------------------------------------------------------
+
+20.LEKCJA - dziedziczenie cz.1
+
+-Czym jest dziedziczenie,
+-w jaki sposób dziedziczyć klasy w Javie,
+
+-ćwiczenia (kurs+ew. jakieś inne)
+---------------------------------------------------------
+
+21.LEKCJA - dziedziczenie cz.2
+
+-jakie są najważniejsze fakty związane z dziedziczeniem w Javie,
+-jak zablokować możliwość dziedziczenia.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+---------------------------------------------------------
+
+22.LEKCJA - konstrukcja "super()"
+
+-Czym jest i do czego służy konstrukcja super().
+-W jaki sposób wywoływać kod konstruktorów i metod klasy nadrzędnej w klasie pochodnej.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+---------------------------------------------------------
+
+23.LEKCJA - polimorfizm cz.1
+
+Czym jest polimorfizm,
+gdzie polimorfizm bywa przydatny
+czym jest rzutowanie typów i kiedy go wykorzystywać.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+---------------------------------------------------------
+
+24.LEKCJA - polimorfizm cz.2
+
+-ćwiczenia (kurs+ew. jakieś inne)
+--------------------------------------------------------
+
+25.LEKCJA - klasa Object i metoda equals() tej klasy
+
+-Jaka jest rola klasy Object i co odróżnia ją od innych klas,
+-do czego służy metoda equals() i jak ją poprawnie definiować.
+??????????????????????
+dlaczego metoda equals generowana jest zawsze razem z metodą hashCode,
+do czego wykorzystuje się metodę hashCode.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+---------------------------------------------------------
+
+26.LEKCJA - metoda toString()
+
+-Czym jest metoda toString(),
+-dlaczego warto nadpisywać metodę toString() klasy Object.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+-----------------------------------------------------------
+
+27.LEKCJA - zapis i odczyt plikow tekstowych
+
+-Jak tworzyć pliki i foldery za pomocą kodu Javy,
+-w jaki sposób odczytywać i zapisywać informacje tekstowe z i do plików,
+-jak wykorzystywać klasy File, FileWriter, FileReader, BufferedWriter i BufferedReader.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+------------------------------------------------------------
+
+28.LEKCJA - interfejsy i klasy abstrakcyjne
+
+Czym jest klasa abstrakcyjna,
+czym jest interfejs,
+do czego służą oba powyższe elementy i kiedy z nich korzystać.
+
+-ćwiczenia (kurs+ew. jakieś inne)
+-----------------------------------------------------------
+
+29.LEKCJA
+
+30.LEKCJA
